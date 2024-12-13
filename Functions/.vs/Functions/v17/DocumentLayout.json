@@ -27,15 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Functions",
+              "Title": "Functions.csproj",
               "DocumentMoniker": "C:\\Users\\Benja\\Documents\\MA\\Bewijzenmap\\Periode 1.2\\M2Prog_Cs2\\Functions\\Functions\\Functions.csproj",
               "RelativeDocumentMoniker": "Functions\\Functions.csproj",
               "ToolTip": "C:\\Users\\Benja\\Documents\\MA\\Bewijzenmap\\Periode 1.2\\M2Prog_Cs2\\Functions\\Functions\\Functions.csproj",
               "RelativeToolTip": "Functions\\Functions.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-13T10:43:29.091Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-13T10:43:29.091Z"
             },
             {
               "$type": "Document",
@@ -45,7 +44,7 @@
               "RelativeDocumentMoniker": "Functions\\Program.cs",
               "ToolTip": "C:\\Users\\Benja\\Documents\\MA\\Bewijzenmap\\Periode 1.2\\M2Prog_Cs2\\Functions\\Functions\\Program.cs",
               "RelativeToolTip": "Functions\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAYwCMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB0AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-22T11:29:45.26Z",
               "EditorCaption": ""
