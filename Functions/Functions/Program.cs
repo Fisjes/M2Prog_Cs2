@@ -2,68 +2,121 @@
 {
     internal class Program
     {
-        static void Main(string[] args)
+        Random rnd = new();
+        string[] vragen = new string[]
+            {
+                "Wat is je naam","Wat is 9 + 10?","Wie is de huidige president van Amerika?","Pizza margherita of pizza salami?","Wat is een Sigma?"
+            };
+
+        static void Main(string[] args) //return type = void
         {
-            Program program = new Program();
+            Program program = new Program(); //hier word de variable program aangemaakt
             program.Run();
         }
+
+        private void Run()
+        {
+            Console.WriteLine("Antwoord met ja of nee");
+            Vraag1();
+            string Vraag0 = GetVraag(0);
+            Console.WriteLine(Vraag0);
+            string antwoord7 = Vraag7();
+            Console.WriteLine(antwoord7);
+        }
+
+
+        internal string GetVraag(int vraagIndex)
+        {
+
+            return vragen[vraagIndex];
+
+        }
+
         internal void Vraag1()
         {
-            Console.WriteLine("What's nine plus ten?");
+            Console.WriteLine("Friet of patat?");
             string antwoord = Console.ReadLine();
 
             Console.WriteLine(antwoord);
-        }
 
+            Vraag2();
+        }
         internal void Vraag2()
         {
-            Console.WriteLine("Would you consider pizza to be good?");
+            Console.WriteLine("Hi");
             string antwoord = Console.ReadLine();
-           
-            Console.WriteLine(antwoord);
-        }
 
+            Console.WriteLine(antwoord);
+
+            Vraag3();
+        }
         internal void Vraag3()
         {
-            Console.WriteLine("What do you think of politics?");
+            Console.WriteLine("Wie is de huidige president van Amerika?");
             string antwoord = Console.ReadLine();
 
             Console.WriteLine(antwoord);
-        }
 
+            Vraag4();
+        }
         internal void Vraag4()
         {
-            Console.WriteLine("Do you like rhythm games?");
+            Console.WriteLine("Wie is Daniel Larson?");
             string antwoord = Console.ReadLine();
 
             Console.WriteLine(antwoord);
-        }
 
+            Vraag5();
+        }
         internal void Vraag5()
         {
-            Console.WriteLine("Do you like Osu! ?");
+            Console.WriteLine("Wie is Bill Gates?");
             string antwoord = Console.ReadLine();
 
             Console.WriteLine(antwoord);
-        }
 
-        internal void Vraag6()
-        {
-            Console.WriteLine("What is your favorite movie?");
-            string antwoord = Console.ReadLine();
-
-            Console.WriteLine(antwoord);
-        }
-
-        internal void Run()
-        {
-            Vraag1();
-            Vraag2();
-            Vraag3();
-            Vraag4();
-            Vraag5();
             Vraag6();
         }
+        internal void Vraag6()
+        {
+            Console.WriteLine("Hello?");
+            string antwoord = Console.ReadLine();
+
+            Console.WriteLine(antwoord);
+
+        }
+        internal string Vraag7()
+        {
+            Console.WriteLine("Wie is Mario?");
+            string antwoord = Console.ReadLine();
+
+
+
+            return antwoord;
+        }
+
+        internal string GetRandomVraag()
+        {
+            int vraagIndex = rnd.Next(vragen.Length);
+            return GetVraag(vraagIndex);
+        }
+        internal string GetRandomVraag1()
+        {
+            int vraagIndex = rnd.Next(vragen.Length);
+            return GetVraag(vraagIndex);
+        }
+        internal string GetRandomVraag2()
+        {
+            int vraagIndex = rnd.Next(vragen.Length);
+            return GetVraag(vraagIndex);
+        }
+        internal string GetRandomVraag3()
+        {
+            int vraagIndex = rnd.Next(vragen.Length);
+            return GetVraag(vraagIndex);
+        }
+
 
     }
+
 }
