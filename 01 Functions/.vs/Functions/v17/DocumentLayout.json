@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Benja\\Documents\\MA\\Bewijzenmap\\Periode 1.2\\M2Prog_Cs2\\Functions\\",
+  "WorkspaceRootPath": "C:\\Users\\Leah\\Documents\\GitHub\\M2Prog_Cs2\\01 Functions\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{02F0CCD5-36EF-4EB8-9DAA-CC961FD67E5C}|Functions\\Functions.csproj|c:\\users\\benja\\documents\\ma\\bewijzenmap\\periode 1.2\\m2prog_cs2\\functions\\functions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02F0CCD5-36EF-4EB8-9DAA-CC961FD67E5C}|Functions\\Functions.csproj|solutionrelative:functions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{02F0CCD5-36EF-4EB8-9DAA-CC961FD67E5C}|Functions\\Functions.csproj|c:\\users\\leah\\documents\\github\\m2prog_cs2\\01 functions\\functions\\functions.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{02F0CCD5-36EF-4EB8-9DAA-CC961FD67E5C}|Functions\\Functions.csproj|solutionrelative:functions\\functions.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02F0CCD5-36EF-4EB8-9DAA-CC961FD67E5C}|Functions\\Functions.csproj|c:\\users\\benja\\documents\\ma\\bewijzenmap\\periode 1.2\\m2prog_cs2\\functions\\functions\\functions.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{02F0CCD5-36EF-4EB8-9DAA-CC961FD67E5C}|Functions\\Functions.csproj|solutionrelative:functions\\functions.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{02F0CCD5-36EF-4EB8-9DAA-CC961FD67E5C}|Functions\\Functions.csproj|c:\\users\\leah\\documents\\github\\m2prog_cs2\\01 functions\\functions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02F0CCD5-36EF-4EB8-9DAA-CC961FD67E5C}|Functions\\Functions.csproj|solutionrelative:functions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,33 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Functions.csproj",
+              "DocumentMoniker": "C:\\Users\\Leah\\Documents\\GitHub\\M2Prog_Cs2\\01 Functions\\Functions\\Functions.csproj",
+              "RelativeDocumentMoniker": "Functions\\Functions.csproj",
+              "ToolTip": "C:\\Users\\Leah\\Documents\\GitHub\\M2Prog_Cs2\\01 Functions\\Functions\\Functions.csproj",
+              "RelativeToolTip": "Functions\\Functions.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-13T10:43:29.091Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Functions.csproj",
-              "DocumentMoniker": "C:\\Users\\Benja\\Documents\\MA\\Bewijzenmap\\Periode 1.2\\M2Prog_Cs2\\Functions\\Functions\\Functions.csproj",
-              "RelativeDocumentMoniker": "Functions\\Functions.csproj",
-              "ToolTip": "C:\\Users\\Benja\\Documents\\MA\\Bewijzenmap\\Periode 1.2\\M2Prog_Cs2\\Functions\\Functions\\Functions.csproj",
-              "RelativeToolTip": "Functions\\Functions.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-13T10:43:29.091Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Benja\\Documents\\MA\\Bewijzenmap\\Periode 1.2\\M2Prog_Cs2\\Functions\\Functions\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Leah\\Documents\\GitHub\\M2Prog_Cs2\\01 Functions\\Functions\\Program.cs",
               "RelativeDocumentMoniker": "Functions\\Program.cs",
-              "ToolTip": "C:\\Users\\Benja\\Documents\\MA\\Bewijzenmap\\Periode 1.2\\M2Prog_Cs2\\Functions\\Functions\\Program.cs",
+              "ToolTip": "C:\\Users\\Leah\\Documents\\GitHub\\M2Prog_Cs2\\01 Functions\\Functions\\Program.cs",
               "RelativeToolTip": "Functions\\Program.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB0AAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAuwB0AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-22T11:29:45.26Z",
               "EditorCaption": ""
