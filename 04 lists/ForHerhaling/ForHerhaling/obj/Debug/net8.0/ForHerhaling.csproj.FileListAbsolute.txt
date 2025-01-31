@@ -1,0 +1,14 @@
+C:\Users\Leah\source\repos\ForHerhaling\ForHerhaling\obj\Debug\net8.0\ForHerhaling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leah\source\repos\ForHerhaling\ForHerhaling\obj\Debug\net8.0\ForHerhaling.AssemblyInfoInputs.cache
+C:\Users\Leah\source\repos\ForHerhaling\ForHerhaling\obj\Debug\net8.0\ForHerhaling.AssemblyInfo.cs
+C:\Users\Leah\source\repos\ForHerhaling\ForHerhaling\obj\Debug\net8.0\ForHerhaling.csproj.CoreCompileInputs.cache
+C:\Users\Leah\source\repos\ForHerhaling\ForHerhaling\bin\Debug\net8.0\ForHerhaling.exe
+C:\Users\Leah\source\repos\ForHerhaling\ForHerhaling\bin\Debug\net8.0\ForHerhaling.deps.json
+C:\Users\Leah\source\repos\ForHerhaling\ForHerhaling\bin\Debug\net8.0\ForHerhaling.runtimeconfig.json
+C:\Users\Leah\source\repos\ForHerhaling\ForHerhaling\bin\Debug\net8.0\ForHerhaling.dll
+C:\Users\Leah\source\repos\ForHerhaling\ForHerhaling\bin\Debug\net8.0\ForHerhaling.pdb
+C:\Users\Leah\source\repos\ForHerhaling\ForHerhaling\obj\Debug\net8.0\ForHerhaling.dll
+C:\Users\Leah\source\repos\ForHerhaling\ForHerhaling\obj\Debug\net8.0\refint\ForHerhaling.dll
+C:\Users\Leah\source\repos\ForHerhaling\ForHerhaling\obj\Debug\net8.0\ForHerhaling.pdb
+C:\Users\Leah\source\repos\ForHerhaling\ForHerhaling\obj\Debug\net8.0\ForHerhaling.genruntimeconfig.cache
+C:\Users\Leah\source\repos\ForHerhaling\ForHerhaling\obj\Debug\net8.0\ref\ForHerhaling.dll

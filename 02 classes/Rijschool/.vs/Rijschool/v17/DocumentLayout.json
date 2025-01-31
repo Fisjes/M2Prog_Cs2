@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Leah\\source\\repos\\Rijschool\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A83818D9-AF69-461B-9582-3C27A1F3FD64}|Rijschool\\Rijschool.csproj|c:\\users\\leah\\source\\repos\\rijschool\\rijschool\\lesuur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A83818D9-AF69-461B-9582-3C27A1F3FD64}|Rijschool\\Rijschool.csproj|solutionrelative:rijschool\\lesuur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A83818D9-AF69-461B-9582-3C27A1F3FD64}|Rijschool\\Rijschool.csproj|c:\\users\\leah\\source\\repos\\rijschool\\rijschool\\dag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A83818D9-AF69-461B-9582-3C27A1F3FD64}|Rijschool\\Rijschool.csproj|solutionrelative:rijschool\\dag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A83818D9-AF69-461B-9582-3C27A1F3FD64}|Rijschool\\Rijschool.csproj|c:\\users\\leah\\source\\repos\\rijschool\\rijschool\\theorietest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A83818D9-AF69-461B-9582-3C27A1F3FD64}|Rijschool\\Rijschool.csproj|solutionrelative:rijschool\\theorietest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A83818D9-AF69-461B-9582-3C27A1F3FD64}|Rijschool\\Rijschool.csproj|c:\\users\\leah\\source\\repos\\rijschool\\rijschool\\rijtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A83818D9-AF69-461B-9582-3C27A1F3FD64}|Rijschool\\Rijschool.csproj|solutionrelative:rijschool\\rijtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A83818D9-AF69-461B-9582-3C27A1F3FD64}|Rijschool\\Rijschool.csproj|c:\\users\\leah\\source\\repos\\rijschool\\rijschool\\lespakket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A83818D9-AF69-461B-9582-3C27A1F3FD64}|Rijschool\\Rijschool.csproj|solutionrelative:rijschool\\lespakket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A83818D9-AF69-461B-9582-3C27A1F3FD64}|Rijschool\\Rijschool.csproj|c:\\users\\leah\\source\\repos\\rijschool\\rijschool\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A83818D9-AF69-461B-9582-3C27A1F3FD64}|Rijschool\\Rijschool.csproj|solutionrelative:rijschool\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A83818D9-AF69-461B-9582-3C27A1F3FD64}|Rijschool\\Rijschool.csproj|c:\\users\\leah\\source\\repos\\rijschool\\rijschool\\rijleraar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A83818D9-AF69-461B-9582-3C27A1F3FD64}|Rijschool\\Rijschool.csproj|solutionrelative:rijschool\\rijleraar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A83818D9-AF69-461B-9582-3C27A1F3FD64}|Rijschool\\Rijschool.csproj|c:\\users\\leah\\source\\repos\\rijschool\\rijschool\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A83818D9-AF69-461B-9582-3C27A1F3FD64}|Rijschool\\Rijschool.csproj|solutionrelative:rijschool\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A83818D9-AF69-461B-9582-3C27A1F3FD64}|Rijschool\\Rijschool.csproj|c:\\users\\leah\\source\\repos\\rijschool\\rijschool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A83818D9-AF69-461B-9582-3C27A1F3FD64}|Rijschool\\Rijschool.csproj|solutionrelative:rijschool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LesUur.cs",
+              "DocumentMoniker": "C:\\Users\\Leah\\source\\repos\\Rijschool\\Rijschool\\LesUur.cs",
+              "RelativeDocumentMoniker": "Rijschool\\LesUur.cs",
+              "ToolTip": "C:\\Users\\Leah\\source\\repos\\Rijschool\\Rijschool\\LesUur.cs",
+              "RelativeToolTip": "Rijschool\\LesUur.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T11:07:29.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dag.cs",
+              "DocumentMoniker": "C:\\Users\\Leah\\source\\repos\\Rijschool\\Rijschool\\Dag.cs",
+              "RelativeDocumentMoniker": "Rijschool\\Dag.cs",
+              "ToolTip": "C:\\Users\\Leah\\source\\repos\\Rijschool\\Rijschool\\Dag.cs",
+              "RelativeToolTip": "Rijschool\\Dag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T11:07:23.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TheorieTest.cs",
+              "DocumentMoniker": "C:\\Users\\Leah\\source\\repos\\Rijschool\\Rijschool\\TheorieTest.cs",
+              "RelativeDocumentMoniker": "Rijschool\\TheorieTest.cs",
+              "ToolTip": "C:\\Users\\Leah\\source\\repos\\Rijschool\\Rijschool\\TheorieTest.cs",
+              "RelativeToolTip": "Rijschool\\TheorieTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T11:07:18.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RijTest.cs",
+              "DocumentMoniker": "C:\\Users\\Leah\\source\\repos\\Rijschool\\Rijschool\\RijTest.cs",
+              "RelativeDocumentMoniker": "Rijschool\\RijTest.cs",
+              "ToolTip": "C:\\Users\\Leah\\source\\repos\\Rijschool\\Rijschool\\RijTest.cs",
+              "RelativeToolTip": "Rijschool\\RijTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T11:07:12.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LesPakket.cs",
+              "DocumentMoniker": "C:\\Users\\Leah\\source\\repos\\Rijschool\\Rijschool\\LesPakket.cs",
+              "RelativeDocumentMoniker": "Rijschool\\LesPakket.cs",
+              "ToolTip": "C:\\Users\\Leah\\source\\repos\\Rijschool\\Rijschool\\LesPakket.cs",
+              "RelativeToolTip": "Rijschool\\LesPakket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T11:07:04.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Leah\\source\\repos\\Rijschool\\Rijschool\\Student.cs",
+              "RelativeDocumentMoniker": "Rijschool\\Student.cs",
+              "ToolTip": "C:\\Users\\Leah\\source\\repos\\Rijschool\\Rijschool\\Student.cs",
+              "RelativeToolTip": "Rijschool\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T11:06:54.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RijLeraar.cs",
+              "DocumentMoniker": "C:\\Users\\Leah\\source\\repos\\Rijschool\\Rijschool\\RijLeraar.cs",
+              "RelativeDocumentMoniker": "Rijschool\\RijLeraar.cs",
+              "ToolTip": "C:\\Users\\Leah\\source\\repos\\Rijschool\\Rijschool\\RijLeraar.cs",
+              "RelativeToolTip": "Rijschool\\RijLeraar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T11:06:07.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Auto.cs",
+              "DocumentMoniker": "C:\\Users\\Leah\\source\\repos\\Rijschool\\Rijschool\\Auto.cs",
+              "RelativeDocumentMoniker": "Rijschool\\Auto.cs",
+              "ToolTip": "C:\\Users\\Leah\\source\\repos\\Rijschool\\Rijschool\\Auto.cs",
+              "RelativeToolTip": "Rijschool\\Auto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T11:05:48.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Leah\\source\\repos\\Rijschool\\Rijschool\\Program.cs",
+              "RelativeDocumentMoniker": "Rijschool\\Program.cs",
+              "ToolTip": "C:\\Users\\Leah\\source\\repos\\Rijschool\\Rijschool\\Program.cs",
+              "RelativeToolTip": "Rijschool\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T11:02:44.957Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
