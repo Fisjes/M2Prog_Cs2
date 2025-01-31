@@ -1,0 +1,15 @@
+C:\Users\Leah\source\repos\FileIo\FileIo\bin\Debug\net8.0\quiz.txt
+C:\Users\Leah\source\repos\FileIo\FileIo\bin\Debug\net8.0\FileIo.exe
+C:\Users\Leah\source\repos\FileIo\FileIo\bin\Debug\net8.0\FileIo.deps.json
+C:\Users\Leah\source\repos\FileIo\FileIo\bin\Debug\net8.0\FileIo.runtimeconfig.json
+C:\Users\Leah\source\repos\FileIo\FileIo\bin\Debug\net8.0\FileIo.dll
+C:\Users\Leah\source\repos\FileIo\FileIo\bin\Debug\net8.0\FileIo.pdb
+C:\Users\Leah\source\repos\FileIo\FileIo\obj\Debug\net8.0\FileIo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leah\source\repos\FileIo\FileIo\obj\Debug\net8.0\FileIo.AssemblyInfoInputs.cache
+C:\Users\Leah\source\repos\FileIo\FileIo\obj\Debug\net8.0\FileIo.AssemblyInfo.cs
+C:\Users\Leah\source\repos\FileIo\FileIo\obj\Debug\net8.0\FileIo.csproj.CoreCompileInputs.cache
+C:\Users\Leah\source\repos\FileIo\FileIo\obj\Debug\net8.0\FileIo.dll
+C:\Users\Leah\source\repos\FileIo\FileIo\obj\Debug\net8.0\refint\FileIo.dll
+C:\Users\Leah\source\repos\FileIo\FileIo\obj\Debug\net8.0\FileIo.pdb
+C:\Users\Leah\source\repos\FileIo\FileIo\obj\Debug\net8.0\FileIo.genruntimeconfig.cache
+C:\Users\Leah\source\repos\FileIo\FileIo\obj\Debug\net8.0\ref\FileIo.dll
